@@ -1,0 +1,46 @@
+body,html{height:100%;
+          width:100%}
+body {padding:0 2% 2% 2%;
+	background-color:#fff;
+     }
+.title{text-align: center;
+      font-size: 24px;
+      margin:0 10px 0 0
+      color:#fff; }    
+.navli{font-size:35px;
+       color:#fff}
+.ulli{float:left;
+      margin-top:30px}
+.ulli li {display:inline-block;
+	     margin:9px;}
+
+.ulli:first-child{
+	margin-left: 315px}
+
+.box {background-color:#22B573
+	;height:100%;
+     width:100%;}
+.isari{width: 250px;
+     float:right;
+     margin-left:35px}
+.leftbox {background-color:#FCEE21;
+         margin:30px 0 0 20px ;
+         float:left;
+         width:582px;
+         height:356px;
+         }
+.leftbox img {float:right;
+          vertical-align:bottom;
+         margin:15px 15px 10px 10px; }
+.leftbox p {font-size:19px;
+            color:#006837;}         
+.rightbox{float:right;
+         width:582px;
+         height:356px;
+         background-color:#FCEE21;
+         margin:30px 20px 0 0 ;} 
+.rightbox img {float:left;
+            margin:15px 15px 10px 10px} 
+.rightbox p {font-size:20px;
+             color:#006837;}                       
+.clear {clear:both;}
